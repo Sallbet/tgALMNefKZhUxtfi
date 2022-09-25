@@ -1,0 +1,59 @@
+{	
+
+	"арт млпп 1": {
+	"name": "Concert_top.png",
+	"x": 235,
+	"y": -24,
+	"width": 191,
+	"height": 57,
+	"sectors":false
+	},
+ 	"арт млпп 2": {
+	"name": "Derpy_top.png",
+	"x": 165,
+	"y": 437,
+	"width": 113,
+	"height": 61,
+	"sectors":false
+	}, 
+  	"арт млпп 3": {
+	"name": "Fluttershy_top.png",
+	"x": 833,
+	"y": -610,
+	"width": 167,
+	"height": 98,
+	"sectors":false
+	},
+ 	 "арт млпп 4": {
+	"name": "foe_top.png",
+	"x": 617,
+	"y": -1000,
+	"width": 383,
+	"height": 204,
+	"sectors":false
+	}, 
+ 	 "арт млпп 5": {
+	"name": "fs_&_rd_sleeping_top.png",
+	"x": -82,
+	"y": -165,
+	"width": 51,
+	"height": 45,
+	"sectors":false
+	}, 
+   	 "арт млпп 6": {
+	"name": "twi_sleeping_top.png",
+	"x": 162,
+	"y": 180,
+	"width": 46,
+	"height": 21,
+	"sectors":false
+	},
+	 "арт млпп 7": {
+	"name": "cats_top.png",
+	"x": -195,
+	"y": 469,
+	"width": 158,
+	"height": 43,
+	"sectors":false
+	} 
+}
