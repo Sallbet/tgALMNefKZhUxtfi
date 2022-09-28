@@ -102,6 +102,14 @@
         "width": 228,
         "height": 680,
         "sectors": false
+    },
+    "Twilight_epmireppf_d": {
+        "name": "Twilight_empireppf_d.png",
+        "x": 9448,
+        "y": -13017,
+        "width": 49,
+        "height": 35,
+        "sectors": false
     }
 
 }
