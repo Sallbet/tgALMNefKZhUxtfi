@@ -63,20 +63,12 @@
         "height": 217,
         "sectors": false
     },
-    "9": {
-        "name": "ml.png",
-        "x": 9189,
-        "y": -13214,
-        "width": 512,
-        "height": 192,
-        "sectors": false
-    },
     "SpawnDerpy": {
         "name": "dr.png",
-        "x": -18,
-        "y": -291,
-        "width": 51,
-        "height": 51,
+        "x": -16,
+        "y": -290,
+        "width": 50,
+        "height": 47,
         "sectors": false
     },
     "CatLand": {
