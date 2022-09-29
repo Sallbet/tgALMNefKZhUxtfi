@@ -48,14 +48,14 @@
         "sectors": false
     },
     "7": {
-        "name": "gf.png",
-        "x": -2750,
-        "y": 2263,
-        "width": 200,
-        "height": 199,
+        "name": "bffgf.png",
+        "x": -2749,
+        "y": 2125,
+        "width": 348,
+        "height": 338,
         "sectors": false
     },
-    "8": {
+    "9": {
         "name": "res.png",
         "x": -3107,
         "y": -4207,
@@ -79,8 +79,8 @@
         "height": 50,
         "sectors": false
     },
-    "Mdagascar": {
-        "name": "Mdagascar.png",
+    "Madagascar": {
+        "name": "Mdagascar_d.png",
         "x": 8108,
         "y": 2169,
         "width": 1354,
@@ -103,5 +103,4 @@
         "height": 35,
         "sectors": false
     }
-
 }
