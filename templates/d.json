@@ -48,19 +48,11 @@
         "sectors": false
     },
     "7": {
-        "name": "gf.png",
+        "name": "bffgf.png",
         "x": -2749,
-        "y": 2264,
-        "width": 200,
-        "height": 199,
-        "sectors": false
-    },
-    "8": {
-        "name": "bff.png",
-        "x": -2533,
         "y": 2125,
-        "width": 132,
-        "height": 337,
+        "width": 348,
+        "height": 338,
         "sectors": false
     },
     "9": {
@@ -110,23 +102,5 @@
         "width": 49,
         "height": 35,
         "sectors": false
-    },
-    "North_ponies_1": {
-        "name": "north_d_1.png",
-        "x": -1134,
-        "y": -14978,
-        "width": 228,
-        "height": 680,
-        "sectors": false
-
-    },
-    "North_ponies_2": {
-        "name": "north_d_2.png",
-        "x": -890,
-        "y": -14978,
-        "width": 228,
-        "height": 680,
-        "sectors": false
-
     }
 }
