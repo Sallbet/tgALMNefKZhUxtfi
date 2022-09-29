@@ -102,5 +102,13 @@
         "width": 49,
         "height": 35,
         "sectors": false
+    },
+    "North_ponies_2": {
+        "name": "north_d.png",
+        "x": 1100,
+        "y": -14978,
+        "width": 228,
+        "height": 680,
+        "sectors": false
     }
 }
