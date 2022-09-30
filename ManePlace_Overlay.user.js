@@ -42,11 +42,15 @@ if (window.top !== window.self) {
 
             for (let src of sources) {
                 const image = document.createElement("img");
-                image.src = src;
+                image.src = src[0];
+                let x = src[1] * 3;
+                let y = src[2] * 3;
+                let dx = src[3] * 3;
+                let dy = src[4] * 3;
 
                 await image.decode();
 
-                ctx.drawImage(image, 1878, 1233, 138, 126);
+                ctx.drawImage(image, x, y, dx, dy);
             }
 
 
@@ -220,6 +224,6 @@ if (window.top !== window.self) {
     // 2000x2000 images without spaces between pixels work too ^_^
 
     const sources = [
-        "https://raw.githubusercontent.com/Sallbet/tgALMNefKZhUxtfi/main/Bez_imeni-2.png"
+        ["https://raw.githubusercontent.com/Sallbet/tgALMNefKZhUxtfi/main/map/derpy.png", 626, 411, 46, 42]
     ];
 }
