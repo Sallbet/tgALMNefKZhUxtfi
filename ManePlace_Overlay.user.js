@@ -8,7 +8,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @run-at       document-start
 // @grant        GM_addStyle
-// @antifeature  tracking
 // ==/UserScript==
 if (window.top !== window.self) {
 
