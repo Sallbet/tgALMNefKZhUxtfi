@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place overlay template
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.2.1
 // @description  eh
 // @author       oralekin, LittleEndu, ekgame, Wieku, DeadRote, violet-ta
 // @match        https://place.manechat.net/*
