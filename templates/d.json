@@ -57,10 +57,10 @@
     },
     "9": {
         "name": "res.png",
-        "x": -3107,
-        "y": -4207,
-        "width": 194,
-        "height": 217,
+        "x": -3108,
+        "y": -4208,
+        "width": 196,
+        "height": 219,
         "sectors": false
     },
     "SpawnDerpy": {
@@ -89,9 +89,9 @@
     },
     "North_ponies": {
         "name": "north_d.png",
-        "x": 890,
+        "x": 860,
         "y": -14978,
-        "width": 228,
+        "width": 258,
         "height": 680,
         "sectors": false
     },
