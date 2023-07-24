@@ -1,0 +1,14 @@
+{
+	"bot": [
+		"https://ponyplace.z19.web.core.windows.net/mlp/autopick.png",
+		"https://media.githubusercontent.com/media/r-ainbowroad/2023-minimap/main/template/mlp/autopick.png"
+	],
+	"mask": [
+		"https://ponyplace.z19.web.core.windows.net/mlp/mask.png",
+		"https://media.githubusercontent.com/media/r-ainbowroad/2023-minimap/main/template/mlp/mask.png"
+	],
+	"offX": -1500,
+	"offY": -1000,
+	"mux": false,
+	"name": "mlp"
+}
